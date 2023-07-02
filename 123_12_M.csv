@@ -1,0 +1,37 @@
+Wyniki badania:
+NUMER PROBY,EKSPERYMENT,CZAS REAKCJI,ZGODNOSC,BODZIEC,REAKCJA,BLOK
+1,False,0.6490296999691054,1,538,1,trening
+2,False,0,0,337,1,trening
+3,False,0,0,466,0,trening
+4,False,0,1,269,0,trening
+5,False,0,0,776,0,trening
+1,True,0.46293539996258914,1,182,1,normalny
+2,True,0,0,440,0,normalny
+3,True,0,0,581,1,normalny
+4,True,0,0,882,0,normalny
+5,True,0,0,601,1,normalny
+1,True,0,0,573,1,normalny
+2,True,0.5653822999447584,1,262,1,normalny
+3,True,0,0,68,0,normalny
+4,True,0.41119010001420975,1,696,1,normalny
+5,True,0,1,265,0,normalny
+1,True,0,0,631,1,normalny
+2,True,0,0,226,0,normalny
+3,True,0,0,234,0,normalny
+4,True,0,0,514,0,normalny
+5,True,0,0,936,0,normalny
+1,True,0,1,259,0,szybki
+2,True,0,0,927,1,szybki
+3,True,0.3418662000913173,1,898,1,szybki
+4,True,0.49616490001790226,1,286,1,szybki
+5,True,0,0,945,1,szybki
+1,True,0,1,137,0,szybki
+2,True,0,0,880,0,szybki
+3,True,0.6809851999860257,1,220,1,szybki
+4,True,0,0,670,0,szybki
+5,True,0.5362128000706434,1,848,1,szybki
+1,True,0,0,610,0,szybki
+2,True,0,0,372,0,szybki
+3,True,0,0,878,0,szybki
+4,True,0.8384659000439569,1,934,1,szybki
+5,True,0,0,479,1,szybki
